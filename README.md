@@ -1,3 +1,4 @@
+关注我的公众号 获取更多资料
 ![](http://voyager.guan2ye.com/wx1.jpg)
 
 
