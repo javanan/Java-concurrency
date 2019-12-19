@@ -1,4 +1,15 @@
-![](https://upload-images.jianshu.io/upload_images/2615789-c05974dae29ef81a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://voyager.guan2ye.com/wx1.jpg)
+
+
+## 程序员必备（云服务器，学习练手，必须要 一天的饭钱换一年的练手机会） 
+
+阿里云新老账户都是享受1折，89一年（老用户比较贵，但是其实你注册一个新账号就好，用家人的支付宝直接扫描一下，几分钟的事情），https://www.aliyun.com/minisite/goods?userCode=vf2b5zld&share_source=copy_link
+
+腾讯云也有https://cloud.tencent.com/act/cps/redirect?redirect=1052&cps_key=1cdaea7b77fe67188b187bce55796594&from=console
+
+
+
+
 
 
 > 努力的意义，就是，在以后的日子里，放眼望去全是自己喜欢的人和事！
